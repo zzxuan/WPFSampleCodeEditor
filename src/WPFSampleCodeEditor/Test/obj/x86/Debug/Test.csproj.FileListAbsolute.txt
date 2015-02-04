@@ -1,0 +1,14 @@
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\bin\Debug\Test.exe
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\bin\Debug\Test.pdb
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\bin\Debug\WPFSampleCodeEditor.dll
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\bin\Debug\WPFSampleCodeEditor.pdb
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\MainWindow.baml
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\MainWindow.g.cs
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\App.g.cs
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\Test_MarkupCompile.cache
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\Test.g.resources
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\Test.Properties.Resources.resources
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\Test.exe
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\Test\obj\x86\Debug\Test.pdb

@@ -1,0 +1,11 @@
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\bin\Debug\WPFSampleCodeEditor.dll
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\bin\Debug\WPFSampleCodeEditor.pdb
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\obj\Debug\WPFSampleCodeEditor_MarkupCompile.cache
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\obj\Debug\WPFSampleCodeEditor_MarkupCompile.lref
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\obj\Debug\Themes\Generic.baml
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\obj\Debug\WPFSampleCodeEditor.g.resources
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\obj\Debug\WPFSampleCodeEditor.Properties.Resources.resources
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\obj\Debug\WPFSampleCodeEditor.csproj.GenerateResource.Cache
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\obj\Debug\WPFSampleCodeEditor.dll
+E:\git\WPFSampleCodeEditor\src\WPFSampleCodeEditor\WPFSampleCodeEditor\obj\Debug\WPFSampleCodeEditor.pdb
